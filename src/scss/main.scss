@@ -1,0 +1,27 @@
+//abstracts
+@import "./abstracts/variables";
+@import "./abstracts/mixin";
+@import "./abstracts/animations";
+
+//base
+@import "./base/reset";
+
+//layout
+@import "./layouts/hearder";
+@import "./layouts/footer";
+
+//components
+@import "./components/button";
+@import "./components/publicDashboard";
+
+//pages
+@import "./pages/home";
+@import "./pages/register";
+@import "./pages/buycard";
+@import "./pages/changecard";
+@import "./pages/login";
+@import "./pages/dashboard";
+
+@import "./pages/adminRegister";
+
+//themes
